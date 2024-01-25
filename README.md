@@ -27,6 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+```bash
 root directory:
 -/public
 -/src
@@ -37,3 +38,4 @@ root directory:
 --App.js
 --index.js
 --WelcomePage.js
+```
